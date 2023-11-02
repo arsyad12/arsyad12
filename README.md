@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsyad Basofil Amri</h1>
 <h3 align="center">Fullstack Web and Mobile Developer</h3>
 
-<img src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47g9whizdlbbuqh7eoo1fgr504jejyprbtsiwoyvh4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47g9whizdlbbuqh7eoo1fgr504jejyprbtsiwoyvh4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  style="align-items: center;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsyad12&label=Profile%20views&color=0e75b6&style=flat" alt="arsyad12" /> </p>
 
